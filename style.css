@@ -1,7 +1,7 @@
 html,body {
   font-family: 'Open Sans', serif;
   font-size: 14px;
-  font-weight: 300;
+  font-weight: 900;
 }
 .hero.is-success {
   background: #F2F6FA;
@@ -34,12 +34,12 @@ p.subtitle {
   padding-top: 1rem;
 }
 .input{
-  font-weight: 500;
+  font-weight: 900;
 }
 .input[disabled]{
   color: #363636;
   cursor: default;
-  font-weight: 500;
+  font-weight: 900;
 }
 .input:hover{
   cursor: default;
